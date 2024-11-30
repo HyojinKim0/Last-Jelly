@@ -958,78 +958,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 981378652}
   m_CullTransparentMesh: 1
---- !u!1001 &1087232195
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 2685164203397020055, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"ID","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Level","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"SpeedX","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"SpeedY","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 4891952401219731495, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4891952401219731495, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.16
-      objectReference: {fileID: 0}
-    - target: {fileID: 4891952401219731495, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.16
-      objectReference: {fileID: 0}
-    - target: {fileID: 4891952401219731495, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4891952401219731495, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4891952401219731495, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4891952401219731495, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4891952401219731495, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4891952401219731495, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4891952401219731495, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6326687336079460341, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: m_Name
-      value: Jelly  (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8965199186431323262, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: ce60f325abe16e1408f2d226e825c21a, type: 3}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 6326687336079460341, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1216762718}
-  m_SourcePrefab: {fileID: 100100000, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
 --- !u!1 &1116775624 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 49235687243613661, guid: 70e267113ec34f24585815365d4937d6, type: 3}
@@ -1147,46 +1075,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1176979167}
   m_CullTransparentMesh: 1
---- !u!1 &1216762717 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6326687336079460341, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
-  m_PrefabInstance: {fileID: 1087232195}
-  m_PrefabAsset: {fileID: 0}
---- !u!58 &1216762718
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1216762717}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.5}
-  serializedVersion: 2
-  m_Radius: 0.5
 --- !u!4 &1280527076 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4220160236531263292, guid: b01bd4c89ddf66744926fc373f6940c4, type: 3}
@@ -2068,6 +1956,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5856804506742439388, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 8c7845f2d3a629943afc1519da279300, type: 2}
     - target: {fileID: 6326687336079460341, guid: 05b46a2c5df907f43895835fe19d9a9d, type: 3}
       propertyPath: m_Name
       value: 'Jelly '
@@ -2299,7 +2191,6 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 3450822363371746154}
   - {fileID: 2893996633046403779}
-  - {fileID: 1087232195}
   - {fileID: 2419644123779348355}
   - {fileID: 8608835624667273728}
   - {fileID: 5762680989768395283}
